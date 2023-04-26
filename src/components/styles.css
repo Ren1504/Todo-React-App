@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+
+*{
+    font-family: 'Caveat', cursive;;
+}
+.test-card{
+    background-color: cadetblue;
+    border-radius: 22px;
+}
+
+.card-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
